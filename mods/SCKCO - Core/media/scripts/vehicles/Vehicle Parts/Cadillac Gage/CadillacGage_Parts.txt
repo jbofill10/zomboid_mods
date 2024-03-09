@@ -1,0 +1,110 @@
+module Base
+{
+
+        item CadillacGageRangerDoorSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	10.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Door,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceFrontDoor_WorldItem,
+    }
+
+        item CadillacGageRangerWindshieldSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	10.0,
+        Type	=	Normal,
+        DisplayName	=	Cadillac Gage Ranger Front Windshield,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceFrontWindshield_WorldItem,
+    }
+
+        item CadillacGageRangerSideWindowSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Front Side Window,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceFrontSideWindow_WorldItem,
+    }
+
+        item CadillacGageRangerRearWindowSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Rear Window,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MaxCapacity = 15,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceRearSeat_WorldItem,
+    }
+
+        item CadillacGageRangerHoodSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Hood,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceHood_WorldItem,
+    }
+
+        item CadillacGageRangerFrontSeatSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Front Seat,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MaxCapacity = 15,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceFrontSeat_WorldItem,
+    }
+    
+        item CadillacGageRangerRearSeatSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Rear Seat,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MaxCapacity = 15,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceRearSeat_WorldItem,
+    }
+
+        item CadillacGageRangerRearDoorsSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Cadillac Gage Ranger Rear Doors,
+        Icon	=	CadillacGageLogo,
+        VehicleType =   1,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = CapriceRearSeat_WorldItem,
+    }
+}

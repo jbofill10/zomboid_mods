@@ -1,0 +1,33 @@
+VERSION = 1,
+
+mods
+{
+	mod = Authentic Z - Current,
+	mod = AuthenticZBackpacks+,
+	mod = AuthenticZLite,
+	mod = AutomaticGateMotors,
+	mod = autotsartrailers,
+	mod = tsarslib,
+	mod = Greenhouse,
+	mod = P4HasBeenRead,
+	mod = ItemTweakerAPI,
+	mod = modoptions,
+	mod = ReducedWoodWeight25p41,
+	mod = RepairAnyClothes,
+	mod = RepairAnyMod,
+	mod = ShowSkillXpGain,
+	mod = UIAPI,
+	mod = Amputation,
+	mod = TMC_TrueActions,
+	mod = TheStar,
+	mod = FC4WT,
+	mod = SCKCO,
+	mod = SCKCOAccessories,
+	mod = SCKCOZoning,
+	mod = rSemiTruck,
+	mod = RotatorsLib,
+}
+
+maps
+{
+}

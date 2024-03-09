@@ -1,0 +1,40 @@
+module Base
+{
+
+    
+        item LargeUtilityTruckSoundController
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	0.0,
+        Type	=	Normal,
+        DisplayName	=	Large Utility Truck Sound Controller,
+        Icon	=	BlazerWheel,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+    }
+
+        item M35SoundController
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	0.0,
+        Type	=	Normal,
+        DisplayName	=	M35SoundController,
+        Icon	=	BlazerWheel,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+    }
+
+        item F700SoundController
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	0.0,
+        Type	=	Normal,
+        DisplayName	=	F700 Sound Controller,
+        Icon	=	BlazerWheel,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+    }
+}

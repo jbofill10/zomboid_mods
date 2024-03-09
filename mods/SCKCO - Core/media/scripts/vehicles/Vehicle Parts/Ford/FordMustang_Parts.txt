@@ -1,0 +1,148 @@
+module Base
+{
+
+        item FordMustangWindshieldSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	30.0,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Windshield,
+        Icon = FordLogo,
+        VehicleType =   3,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = F700ArmoredWindows_WorldItem,
+    }
+
+        item FordMustangSideWindowSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Side Window,
+        Icon = FordLogo,
+        VehicleType =   3,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5SideWindow_WorldItem,
+    }
+
+        item FordMustangHoodSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Hood,
+        Icon = FordLogo,
+        VehicleType =   3,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5Hood_WorldItem,
+    }
+
+        item FordMustangFrontDoorSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	10.0,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Front Door,
+        Icon = FordLogo,
+        VehicleType =  3,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5TrunkLid_WorldItem,
+    }
+
+        item FordMustangFrontSeatSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Ford Mustang Front Seat,
+        Icon = FordLogo,
+        VehicleType =   3,
+        MaxCapacity = 15,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5FrontSeat_WorldItem,
+    }
+
+        item FordMustangRearSeatSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Ford Mustang Rear Seat,
+        Icon = FordLogo,
+        VehicleType =   3,
+        MaxCapacity = 15,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5FrontSeat_WorldItem,
+    }
+
+        item FordMustangTrunkLidSC3
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5.0,
+        Type	=	Normal,
+        DisplayName	= Ford Mustang Trunk Lid,
+        Icon = FordLogo,
+        VehicleType =   3,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5FrontSeat_WorldItem,
+    }
+
+        item FordMustangBullbarSC3
+    {
+        DisplayCategory = VehicleArmor,
+        Weight	=	20,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Bullbar,
+        Icon	=	FordLogo,
+        VehicleType = 2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = JeepCherokeeBullbar_WorldItem,
+    }
+
+        item FordMustangDoorArmorSC3
+    {
+        DisplayCategory = VehicleArmor,
+        Weight	=	10,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Door Armor,
+        Icon	=	FordLogo,
+        VehicleType = 2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = JeepCherokeeDoorArmor_WorldItem,
+    }
+
+        item FordMustangWindshieldArmorSC3
+    {
+        DisplayCategory = VehicleArmor,
+        Weight	=	10,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Windshield Armor,
+        Icon	=	FordLogo,
+        VehicleType = 2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = JeepCherokeeWindshieldArmor_WorldItem,
+    }
+
+        item FordMustangWindowArmorSC3
+    {
+        DisplayCategory = VehicleArmor,
+        Weight	=	15,
+        Type	=	Normal,
+        DisplayName	=	Ford Mustang Window Armor,
+        Icon	=	FordLogo,
+        VehicleType = 2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = JeepCherokeeWindshieldArmor_WorldItem,
+    }
+}

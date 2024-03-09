@@ -1,0 +1,96 @@
+module Base
+{
+
+        item GeoTrackerDoorSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	10,
+        Type	=	Normal,
+        DisplayName	= Geo Tracker Door,
+        Icon	=	GeoLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5Door_WorldItem,
+    }
+
+        item GeoTrackerWindshieldSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	20,
+        Type	=	Normal,
+        DisplayName	=	Geo Tracker Windshield,
+        Icon	=	GeoLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5Windshield_WorldItem,
+    }
+
+        item GeoTrackerSideWindowSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5,
+        Type	=	Normal,
+        DisplayName	=	Geo Tracker Side Window,
+        Icon	=	GeoLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5SideWindow_WorldItem,
+    }
+
+        item GeoTrackerHoodSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5,
+        Type	=	Normal,
+        DisplayName	=	Geo Tracker Hood,
+        Icon	=	GeoLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5Hood_WorldItem,
+    }
+
+        item GeoTrackerTrunkLidSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	10,
+        Type	=	Normal,
+        DisplayName	=	Geo Tracker Trunk Lid,
+        Icon	=	GeoLogo,
+        VehicleType =  2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5TrunkLid_WorldItem,
+    }
+
+        item GeoTrackerFrontSeatSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5,
+        Type	=	Normal,
+        DisplayName	= Geo Tracker Front Seat,
+        Icon	=	GeoLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        MaxCapacity = 5,
+        WorldStaticModel = K5FrontSeat_WorldItem,
+    }
+
+        item GeoTrackerRearSeatSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	5,
+        Type	=	Normal,
+        DisplayName	= Geo Tracker Rear Seat,
+        Icon	=	GeoLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MaxCapacity = 15,
+        MechanicsItem = TRUE,
+        WorldStaticModel = K5FrontSeat_WorldItem,
+    }
+}

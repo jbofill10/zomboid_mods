@@ -1,0 +1,18 @@
+UI_IT = {
+	UI_P4HasBeenRead_Options_ShowNR_Name = "Mostra Indicatore "Non Letto" (?)",
+	UI_P4HasBeenRead_Options_ShowNR_Tooltip = "Selezionare la casella se si desidera visualizzare il segno "Non Letto".",
+	UI_P4HasBeenRead_Options_ShowNC_Name = "Mostra Indicatore "Non Completato" (!)",
+	UI_P4HasBeenRead_Options_ShowNC_Tooltip = "Selezionare la casella se si desidera visualizzare il segno "Non Completato".",
+	UI_P4HasBeenRead_Options_ShowAR_Name = "Mostra Indicatore "Gia Letto"(v)",
+	UI_P4HasBeenRead_Options_ShowAR_Tooltip = "Selezionare la casella se si desidera visualizzare il segno "Gia Letto".",
+	UI_P4HasBeenRead_Options_ShowNCasNR_Name = "Mostra Indicatore "Non Completato" come "Non Letto" (! -> ?)",
+	UI_P4HasBeenRead_Options_ShowNCasNR_Tooltip = "Selezionare la casella se si desidera visualizzare il segno "Non Completato" come "Non Letto".",
+	UI_P4HasBeenRead_Options_ShowCT_Name = "Mostra Indicatore "Selezione Attuale" (o)",
+	UI_P4HasBeenRead_Options_ShowCT_Tooltip = "Seleziona la casella se vuoi mostrare il segno sui libri delle abilita che devi ancora leggere.",
+	UI_P4HasBeenRead_Options_EnableCD_Name = "Mostra Indicatore su CD",
+	UI_P4HasBeenRead_Options_EnableCD_Tooltip = "Seleziona la casella se vuoi mostrare il segno CD.",
+	UI_P4HasBeenRead_Options_EnableVHS_Name = "Mostra Indicatore su VHS",
+	UI_P4HasBeenRead_Options_EnableVHS_Tooltip = "Seleziona la casella se vuoi mostrare il segno su VHS.",
+	UI_P4HasBeenRead_Options_EnableHVHS_Name = "Mostra Indicatore su HomeVHS",
+	UI_P4HasBeenRead_Options_EnableHVHS_Tooltip = "Seleziona la casella se vuoi mostrare il segno su HomeVHS.",
+}

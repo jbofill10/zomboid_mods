@@ -1,0 +1,82 @@
+module Base
+{
+
+    item HahnPumperSeatSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Hahn Pumper Seat,
+        Icon	=	HahnLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MaxCapacity = 15,
+        MechanicsItem = TRUE,
+        WorldStaticModel = HahnPumperSeat_WorldItem,
+    }
+
+    item HahnPumperWindshieldSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Hahn Pumper Windshield,
+        Icon	=	HahnLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = HahnPumperWindshield_WorldItem,
+    }
+
+    item HahnPumperFrontDoorSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Hahn Pumper Front Door,
+        Icon	=	HahnLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = HahnPumperFrontDoor_WorldItem,
+    }
+
+    item HahnPumperRearDoorSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Hahn Pumper Rear Door,
+        Icon	=	HahnLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = HahnPumperFrontDoor_WorldItem,
+    }
+
+    item HahnPumperFrontSideWindowSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Hahn Pumper Front Side Window,
+        Icon	=	HahnLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = HahnPumperFrontSideWindow_WorldItem,
+    }
+
+    item HahnPumperRearSideWindowSC2
+    {
+        DisplayCategory = VehicleMaintenance,
+        Weight	=	15.0,
+        Type	=	Normal,
+        DisplayName	=	Hahn Pumper Rear Side Window,
+        Icon	=	HahnLogo,
+        VehicleType =   2,
+        ConditionMax = 100,
+        MechanicsItem = TRUE,
+        WorldStaticModel = HahnPumperRearSideWindow_WorldItem,
+    }
+}
